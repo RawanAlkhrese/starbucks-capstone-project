@@ -25,8 +25,7 @@ The data contains simulated data that mimics customer behavior on the Starbucks 
  - **profile.json**  
  - **transcript.json** 
  - **portfolio.json**
- *cleaned version of the dataset that used for modeling*
- - **cleaned_data.csv** 
+ - **cleaned_data.csv:** cleaned version of the dataset that used for modeling
  
 -----------------------------------------------------------------------------------------------------------------
  *This project is a part of Udacity's Data Science Nanodegree*.
