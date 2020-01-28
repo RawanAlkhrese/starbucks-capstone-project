@@ -18,19 +18,16 @@ The data contains simulated data that mimics customer behavior on the Starbucks 
  The main findings are explained [here](https://medium.com/@rawan.khurissi/data-exploration-on-starbucks-dataset-64f2fa563be3) 
  
  ## Files Descriptions:
- ### -1 **app:** 
- - **templates:** html files for the web pages . 
- - **run.py:** to run the flask app. 
- 
- ### -2 **data:**
- - **DisasterResponse.db:** the database the contain data table.
- - **disaster_categories.csv:** csv file contains the catogry names. 
- - **disaster_messages.csv:** csv file contains the messages with extra information. 
- - **process_data.py:** ETL python script to preprocess the data.
- 
- ### -3 **models:**
- - **train_classifier.py:** python script to build ml pipline and save the final model. 
-  - **classifier.pkl:** the saved model.
+ ### -1 **models:**
+ - **Starbucks_Capstone_notebook.ipynb:** project code
+  - **Starbucks_Capstone_notebook.html:** the html version of  project code.
+  ### -2 **data:** 
+ three orginal datasets
+ - **profile.json**  
+ - **transcript.json** 
+ - **portfolio.json**
+ cleaned version of the dataset that used for modeling:
+ - **cleaned_data.csv** 
  
 -----------------------------------------------------------------------------------------------------------------
  *This project is a part of Udacity's Data Science Nanodegree*.
