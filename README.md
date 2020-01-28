@@ -18,10 +18,9 @@ The data contains simulated data that mimics customer behavior on the Starbucks 
  The main findings are explained [here](https://medium.com/@rawan.khurissi/data-exploration-on-starbucks-dataset-64f2fa563be3) 
  
  ## Files Descriptions:
- ### -1 **models:**
  - **Starbucks_Capstone_notebook.ipynb:** project code
   - **Starbucks_Capstone_notebook.html:** the html version of  project code.
-  ### -2 **data:** 
+  ### **data:** 
  three orginal datasets
  - **profile.json**  
  - **transcript.json** 
