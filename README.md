@@ -21,11 +21,11 @@ The data contains simulated data that mimics customer behavior on the Starbucks 
  - **Starbucks_Capstone_notebook.ipynb:** project code
   - **Starbucks_Capstone_notebook.html:** the html version of  project code.
   ### **data:** 
- three orginal datasets
+ *three orginal datasets*
  - **profile.json**  
  - **transcript.json** 
  - **portfolio.json**
- cleaned version of the dataset that used for modeling:
+ *cleaned version of the dataset that used for modeling*
  - **cleaned_data.csv** 
  
 -----------------------------------------------------------------------------------------------------------------
