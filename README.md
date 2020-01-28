@@ -9,7 +9,7 @@
 - **seaborn 0.9.0**
 
 ## Project Motivation:
-The goal of this project is to apply my data science  skills by analyzing starbucks dataset and see what the data says to us. I want to study the data not just for population as whole, but an individual personalized level. what the offer type the people prefer and which group of people is likely to respose to the offer. 
+The goal of this project is to apply my data science  skills by analyzing starbucks dataset and see what the data says to us. I want to study the data not just for population as whole, but an individual personalized level. what the offer type the people prefer and which group of people is likely to response  to the offer. 
 
  ## About the Data:
 The data contains simulated data that mimics customer behavior on the Starbucks rewards mobile app and it is seperated into 3 datasets: portfolio , profile and transcript
