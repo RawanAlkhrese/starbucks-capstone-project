@@ -15,6 +15,7 @@ The goal of this project is to apply my data science  skills by analyzing starbu
 The data contains simulated data that mimics customer behavior on the Starbucks rewards mobile app and it is seperated into 3 datasets: portfolio , profile and transcript
  
  ## Results:
+ The main findings are explained [here](https://medium.com/@rawan.khurissi/data-exploration-on-starbucks-dataset-64f2fa563be3) 
  
  ## Files Descriptions:
  ### -1 **app:** 
